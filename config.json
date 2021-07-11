@@ -1,0 +1,17 @@
+{
+    "prefix": "-", 
+    "token": "ODMxODg0OTczNzkwNzI0MTc3.YHbvQQ.3tejuf-KCw4ojQkjYTtEaXE6IU4",
+    "cooldown": "3",
+    "logChannel": "828357307078279181",
+    "Statut": "V.6 | NSFW commande mis à jours !",
+    "OwnerId": "523811999856066570",
+    "welcomeChannel": "859004582785318922",
+    "mongodbconnect": "mongodb+srv://airnox:airnox@cluster0.aeuxp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "badge_seasons" : "851114470410682379",
+    "gif_serveur": "https://media.discordapp.net/attachments/845767226995769394/847926174125916160/MOSHED-2021-5-28-21-55-24.gif",
+    "loggerChannelID": "828357307078279181",
+    "webhook": {
+       "id": "",
+       "token": ""
+    }
+}
